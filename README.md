@@ -1,5 +1,5 @@
 
-# REACT JS, NODE JS Login and Registration Challenge
+#  Quiz Test Environment Platform Having MCQs Type Question 
 
 This is a full-stack JavaScript application that allows users to register and login to view a pre-existing page of your choice. Upon registration, users are required to supply a username, email address, and password. The application uses MongoDB, Express.js, JWT, and React.js to implement its functionality.
 
